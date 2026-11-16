@@ -1,4 +1,4 @@
-# 🍪 PT Mayora Indah Tbk (IDX: MYOR) — Integrated Corporate Business & Financial Analytics
+#  PT Mayora Indah Tbk (IDX: MYOR) — Integrated Corporate Business & Financial Analytics
 > **Comprehensive FMCG Equity & Operations Research: Global Export Moat, Commodity Price Sensitivity, Route-to-Market Distribution Architecture, and BCG Portfolio Dynamics**
 
 [![Author](https://img.shields.io/badge/Author-Muhammad%20Zulvan%20Yahya-1E3A8A?style=flat&logo=github)](https://github.com/zulscret)
@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Executive Summary
+##  Executive Summary
 **PT Mayora Indah Tbk (IDX: MYOR)** is one of Southeast Asia's foremost branded food and beverage conglomerates. Unlike typical domestic-bound Indonesian consumer staples peers, Mayora has successfully built a **world-class global export engine**, generating over **44.0% of net revenue from &gt;100 international destination countries** (notably leading the instant coffee category in the Philippines with *Kopiko*).
 
 This repository presents an institutional-grade business and financial performance case study spanning **FY2020 through FY2025E**, diagnosing:
@@ -19,7 +19,7 @@ This repository presents an institutional-grade business and financial performan
 
 ---
 
-## 🏗️ Repository Architecture
+##  Repository Architecture
 ```text
 mayora-business-analytics/
 ├── data/
@@ -43,7 +43,7 @@ mayora-business-analytics/
 
 ---
 
-## 📊 Key Analytical Dimensions
+##  Key Analytical Dimensions
 
 ### 1. 5-Year Financial Performance Snapshot
 | Metric (Billion IDR) | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025E | 5-Yr CAGR |
@@ -79,13 +79,13 @@ A **$\pm 10\%$ shock across primary commodities** alters Mayora's annual Gross P
 
 ---
 
-## 📈 Supply Chain & Working Capital Benchmark
+## Supply Chain & Working Capital Benchmark
 * **Cash Conversion Cycle (CCC):** Managed efficiently at **88 days** (Days Sales Outstanding: 58 days, Days of Inventory: 64 days, Days Payable: 34 days).
 * **Route-to-Market Moat:** Exclusive downstream execution by **PT Inbisco Niagatama Semesta** ensures rapid market penetration into traditional warungs with high-velocity single-serve sachets (Rp 1,000 – Rp 2,000 price points).
 
 ---
 
-## 👨‍💻 Author
+##  Author
 **Muhammad Zulvan Yahya**  
 *S1 Information Systems — Universitas Pembangunan Nasional "Veteran" Jakarta*  
 *Specialization: Corporate Financial Modeling, FMCG Operations, Business Analytics, SQL & Python*
